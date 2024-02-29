@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Murshid Kallen Ch</h1>
+<h1 align="center">Hi 👋, I'm Murshid Kallen</h1>
 <h3 align="center">I'm Software Engineer, Full Stack Web Developer and Entrepreneur from India</h3>
 
 
